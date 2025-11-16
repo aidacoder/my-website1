@@ -276,7 +276,7 @@ export default function WorkExperience() {
     };
 
     return (
-        <div className="bg-red-300 ">
+        <div className="bg-red-950 ">
             <h1 className="text-3xl text-white p-3.5 ml-3.5">Work Experience</h1>
 
             <div className="flex gap-2 flex-wrap justify-evenly">

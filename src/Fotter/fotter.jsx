@@ -8,7 +8,7 @@ function Fotter() {
     return (
       <>
 
-      <div className=" bg-red-300">
+      <div className=" bg-red-950">
         
         <h1 className="text-3xl text-white p-3.5 ml-3.5 ">Contact</h1>
         <div className="flex justify-evenly">
@@ -18,7 +18,7 @@ function Fotter() {
         </div>
 
       </div>
-        <div className="bg-red-300 text-center text-white p-3.5">
+        <div className="bg-red-950 text-center text-white p-3.5">
             <p>&copy; <span id="year"></span> marhalida sinaga. All rights reserved.</p>
         </div>
         </>
